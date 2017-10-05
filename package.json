@@ -1,0 +1,14 @@
+{
+  "name": "bai-tap-tuan-4",
+  "version": "0.0.0",
+  "description": "Bai tap tuan 4",
+  "author": "Nguyen Minh Hieu, 14520287",
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^21.0.0",
+    "react": "16.0.0-alpha.12",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-21.0.2.tar.gz",
+    "react-navigation": "^1.0.0-beta.13"
+  }
+}
