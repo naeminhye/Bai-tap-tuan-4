@@ -30,7 +30,7 @@ export default class Home extends React.Component {
                     </TouchableOpacity>
                     <TouchableOpacity 
                         style={styles.button}
-                        //onPress={() => navigate('Homework')}
+                        onPress={() => navigate('Homework')}
                     >
                         <Text style={styles.buttonText}>Homework</Text>
                     </TouchableOpacity>
